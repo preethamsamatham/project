@@ -14,14 +14,7 @@ public class HelloWorld {
 		Emp1 e3=new Emp1(23,100000);
 		System.out.println(e3.getEmp1Details());
 		
-		/*e.name="preetham";
-		e.age=23;
-		e.salary=100000;
-		System.out.println(e.getEmp1Details());
-		e.name="venkatesh";
-		e.age=30;
-		e.salary=200000;
-		System.out.println(e.getEmp1Details());*/
+
 		
 		
 		
